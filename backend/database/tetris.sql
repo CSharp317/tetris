@@ -4,12 +4,6 @@ START TRANSACTION;
 SET time_zone = "+00:00";
 
 --
--- Banco de dados: `u363572247_tretris`
---
-
---
--- Estrutura para tabela `historico_jogos`
---
 
 CREATE TABLE `historico_jogos` (
   `id` int(4) NOT NULL,
